@@ -71,4 +71,5 @@ By identifying common equipment weaknesses, evaluating cost-to-performance ratio
 **Reporting Period:** November 2026
 
 ## AI Disclosure
-AI (Gemini and ChatGPT) was used in supporting cleaning and reading data, as well as setting up databricks 
+AI (Gemini and ChatGPT) was used in supporting cleaning and reading data, as well as setting up databricks
+- README was summarized by ChatGPT
